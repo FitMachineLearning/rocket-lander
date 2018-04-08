@@ -10,8 +10,12 @@ The Author for this environment is [arex18](https://github.com/arex18/rocket-lan
 The agent starts to land regularily after 500 episodes.
 You can see the agent in action [here](https://www.youtube.com/watch?v=RdRnBCFMVd4)
 
-<img src="/img/cCartPole.jpg" width="250"/>
 
+<table style="width:100% border: none" >
+  <tr>
+    <th><img src="/img/Lander1.png" width="550"/></th>         
+  </tr>
+</Table>
 
 ### How to run
 
